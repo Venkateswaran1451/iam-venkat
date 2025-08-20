@@ -5,4 +5,4 @@ set -e
 docker pull venkates123/venkatglobal:latest
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 venkates123/venkatglobal:latest
+docker run -d -p 5000:5000 venkates123/venkatglobal:latest 
